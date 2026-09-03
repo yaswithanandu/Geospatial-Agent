@@ -1,4 +1,4 @@
-# Geospatial Reasoning Agent (GRA)
+# Geospatial Agent 
 
 An AI agent that turns natural-language requests into real geospatial analyses. Ask it something like *"Find suitable areas for affordable housing in Palo Alto"* and it plans a workflow, pulls live elevation/weather/OSM/land-use data, runs GIS operations (buffering, clipping, reclassification, weighted overlay, multi-criteria analysis), and publishes the result as a map layer — all with a full audit trail of what it did and why.
 
